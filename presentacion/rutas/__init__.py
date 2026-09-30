@@ -1,0 +1,1 @@
+"""Rutas de la aplicación, un archivo por módulo."""

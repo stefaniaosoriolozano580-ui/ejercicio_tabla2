@@ -1,0 +1,5 @@
+fastapi
+asyncpg
+jinja2
+python-multipart
+uvicorn[standard]
